@@ -15,6 +15,6 @@ public class Restart : MonoBehaviour
     }
     private void Start()
     {
-        Debug.Log("1");
+        
     }
 }
