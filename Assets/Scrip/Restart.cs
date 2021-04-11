@@ -13,4 +13,8 @@ public class Restart : MonoBehaviour
         SceneManager.LoadScene("LearnScene");
         
     }
+    private void Start()
+    {
+        Debug.Log("1");
+    }
 }
