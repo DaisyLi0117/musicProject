@@ -9,7 +9,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{4080FFA4-1DA5-2DFF-3A6A-4054EBFC4BA0}</ProjectGuid>
+    <ProjectGuid>{76B12027-303B-A4F1-2527-A229967011EF}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Unity.2D.Animation.Samples.Runtime</AssemblyName>
@@ -267,10 +267,10 @@
       <HintPath>C:/Program Files (x86)/Microsoft Visual Studio Tools for Unity/16.0/Editor/SyntaxTree.VisualStudio.Unity.Bridge.dll</HintPath>
     </Reference>
     <Reference Include="SonicBloom.Koreo.EditorUI">
-      <HintPath>E:/A UNITY/0320music/Assets/Plugins/Editor/Koreographer/SonicBloom.Koreo.EditorUI.dll</HintPath>
+      <HintPath>E:/A UNITY/musicProject/Assets/Plugins/Editor/Koreographer/SonicBloom.Koreo.EditorUI.dll</HintPath>
     </Reference>
     <Reference Include="SonicBloom.Koreo">
-      <HintPath>E:/A UNITY/0320music/Assets/Plugins/Koreographer/Unity Editor/SonicBloom.Koreo.dll</HintPath>
+      <HintPath>E:/A UNITY/musicProject/Assets/Plugins/Koreographer/Unity Editor/SonicBloom.Koreo.dll</HintPath>
     </Reference>
     <Reference Include="UnityEditor.iOS.Extensions.Xcode">
       <HintPath>C:/Program Files/Unity/Hub/Editor/2019.4.22f1c1/Editor/Data/PlaybackEngines/iOSSupport/UnityEditor.iOS.Extensions.Xcode.dll</HintPath>
@@ -624,16 +624,16 @@
       <HintPath>C:/Program Files/Unity/Hub/Editor/2019.4.22f1c1/Editor/Data/NetStandard/compat/2.0.0/shims/netfx/System.Xml.Serialization.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.UI">
-      <HintPath>E:/A UNITY/0320music/Library/ScriptAssemblies/UnityEngine.UI.dll</HintPath>
+      <HintPath>E:/A UNITY/musicProject/Library/ScriptAssemblies/UnityEngine.UI.dll</HintPath>
     </Reference>
     <Reference Include="Unity.2D.Animation.Runtime">
-      <HintPath>E:/A UNITY/0320music/Library/ScriptAssemblies/Unity.2D.Animation.Runtime.dll</HintPath>
+      <HintPath>E:/A UNITY/musicProject/Library/ScriptAssemblies/Unity.2D.Animation.Runtime.dll</HintPath>
     </Reference>
     <Reference Include="Unity.2D.IK.Runtime">
-      <HintPath>E:/A UNITY/0320music/Library/ScriptAssemblies/Unity.2D.IK.Runtime.dll</HintPath>
+      <HintPath>E:/A UNITY/musicProject/Library/ScriptAssemblies/Unity.2D.IK.Runtime.dll</HintPath>
     </Reference>
     <Reference Include="UnityEditor.UI">
-      <HintPath>E:/A UNITY/0320music/Library/ScriptAssemblies/UnityEditor.UI.dll</HintPath>
+      <HintPath>E:/A UNITY/musicProject/Library/ScriptAssemblies/UnityEditor.UI.dll</HintPath>
     </Reference>
   </ItemGroup>
   <ItemGroup></ItemGroup>
